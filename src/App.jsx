@@ -1,9 +1,8 @@
-import Pagination from "../components/pagination/pagination";
-
 import "./App.css";
+import Slider from "../components/carousel/slider/slider";
 
 function App() {
-  return <Pagination />;
+  return <Slider />;
 }
 
 export default App;
