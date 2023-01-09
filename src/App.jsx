@@ -1,9 +1,8 @@
+import Carousel from "../components/carousel/carousel";
+import "./App.css";
+
 function App() {
-  return (
-    <div>
-      <h1>Hi</h1>
-    </div>
-  );
+  return <Carousel />;
 }
 
 export default App;
