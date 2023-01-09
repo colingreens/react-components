@@ -1,4 +1,3 @@
-import { useState } from "react";
 import AccordionItem from "./accordion-item";
 import classes from "./accordion-01.module.css";
 
