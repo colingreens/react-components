@@ -1,8 +1,8 @@
+import HeroSection from "../components/sections/hero/hero";
 import "./App.css";
-import Slider from "../components/carousel/slider/slider";
 
 function App() {
-  return <Slider />;
+  return <HeroSection />;
 }
 
 export default App;
