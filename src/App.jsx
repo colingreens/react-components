@@ -1,8 +1,9 @@
-import Carousel from "../components/carousel/carousel";
+import Table from "../components/table/table";
+
 import "./App.css";
 
 function App() {
-  return <Carousel />;
+  return <Table />;
 }
 
 export default App;
