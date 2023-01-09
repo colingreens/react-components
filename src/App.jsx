@@ -1,9 +1,9 @@
-import Table from "../components/table/table";
+import Pagination from "../components/pagination/pagination";
 
 import "./App.css";
 
 function App() {
-  return <Table />;
+  return <Pagination />;
 }
 
 export default App;
